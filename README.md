@@ -1,8 +1,10 @@
 # F24MDST
 F24 MDST Challenge
 
-```checkpoint 0```
+```checkpoint 0``` - Done
 
-```checkpoint 1```
+```checkpoint 1``` - Done 
+ 
+```Loan Approval``` - Done 
 
-```Loan Approval``` 
+```Titanic``` - Still working
